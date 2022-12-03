@@ -7,7 +7,7 @@ $TTL    604800
              604800     ; Minimum
 )
 
-        IN      NS      aocp-svc
+        IN      NS      aocp-svc.anapartner.dev.
 
 70      IN    PTR    aocp-svc.anapartner.dev.
 70      IN    PTR    api.okd.anapartner.dev.
